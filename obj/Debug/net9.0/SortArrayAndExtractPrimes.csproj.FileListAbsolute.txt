@@ -1,0 +1,14 @@
+C:\Users\Pedro\Desktop\C#\SortArrayAndExtractPrimes\bin\Debug\net9.0\SortArrayAndExtractPrimes.exe
+C:\Users\Pedro\Desktop\C#\SortArrayAndExtractPrimes\bin\Debug\net9.0\SortArrayAndExtractPrimes.deps.json
+C:\Users\Pedro\Desktop\C#\SortArrayAndExtractPrimes\bin\Debug\net9.0\SortArrayAndExtractPrimes.runtimeconfig.json
+C:\Users\Pedro\Desktop\C#\SortArrayAndExtractPrimes\bin\Debug\net9.0\SortArrayAndExtractPrimes.dll
+C:\Users\Pedro\Desktop\C#\SortArrayAndExtractPrimes\bin\Debug\net9.0\SortArrayAndExtractPrimes.pdb
+C:\Users\Pedro\Desktop\C#\SortArrayAndExtractPrimes\obj\Debug\net9.0\SortArrayAndExtractPrimes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\C#\SortArrayAndExtractPrimes\obj\Debug\net9.0\SortArrayAndExtractPrimes.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\C#\SortArrayAndExtractPrimes\obj\Debug\net9.0\SortArrayAndExtractPrimes.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\C#\SortArrayAndExtractPrimes\obj\Debug\net9.0\SortArrayAndExtractPrimes.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\C#\SortArrayAndExtractPrimes\obj\Debug\net9.0\SortArrayAndExtractPrimes.dll
+C:\Users\Pedro\Desktop\C#\SortArrayAndExtractPrimes\obj\Debug\net9.0\refint\SortArrayAndExtractPrimes.dll
+C:\Users\Pedro\Desktop\C#\SortArrayAndExtractPrimes\obj\Debug\net9.0\SortArrayAndExtractPrimes.pdb
+C:\Users\Pedro\Desktop\C#\SortArrayAndExtractPrimes\obj\Debug\net9.0\SortArrayAndExtractPrimes.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\C#\SortArrayAndExtractPrimes\obj\Debug\net9.0\ref\SortArrayAndExtractPrimes.dll
