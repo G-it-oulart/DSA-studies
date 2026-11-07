@@ -1,0 +1,15 @@
+C:\Users\Pedro\Desktop\DSA-studies\SeleçãoAtividadesComPeso\bin\Debug\net9.0\SeleçãoAtividadesComPeso.exe
+C:\Users\Pedro\Desktop\DSA-studies\SeleçãoAtividadesComPeso\bin\Debug\net9.0\SeleçãoAtividadesComPeso.deps.json
+C:\Users\Pedro\Desktop\DSA-studies\SeleçãoAtividadesComPeso\bin\Debug\net9.0\SeleçãoAtividadesComPeso.runtimeconfig.json
+C:\Users\Pedro\Desktop\DSA-studies\SeleçãoAtividadesComPeso\bin\Debug\net9.0\SeleçãoAtividadesComPeso.dll
+C:\Users\Pedro\Desktop\DSA-studies\SeleçãoAtividadesComPeso\bin\Debug\net9.0\SeleçãoAtividadesComPeso.pdb
+C:\Users\Pedro\Desktop\DSA-studies\SeleçãoAtividadesComPeso\obj\Debug\net9.0\SeleçãoAtividadesComPeso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\DSA-studies\SeleçãoAtividadesComPeso\obj\Debug\net9.0\SeleçãoAtividadesComPeso.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\DSA-studies\SeleçãoAtividadesComPeso\obj\Debug\net9.0\SeleçãoAtividadesComPeso.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\DSA-studies\SeleçãoAtividadesComPeso\obj\Debug\net9.0\SeleçãoAtividadesComPeso.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\DSA-studies\SeleçãoAtividadesComPeso\obj\Debug\net9.0\SeleçãoAtividadesComPeso.sourcelink.json
+C:\Users\Pedro\Desktop\DSA-studies\SeleçãoAtividadesComPeso\obj\Debug\net9.0\SeleçãoAtividadesComPeso.dll
+C:\Users\Pedro\Desktop\DSA-studies\SeleçãoAtividadesComPeso\obj\Debug\net9.0\refint\SeleçãoAtividadesComPeso.dll
+C:\Users\Pedro\Desktop\DSA-studies\SeleçãoAtividadesComPeso\obj\Debug\net9.0\SeleçãoAtividadesComPeso.pdb
+C:\Users\Pedro\Desktop\DSA-studies\SeleçãoAtividadesComPeso\obj\Debug\net9.0\SeleçãoAtividadesComPeso.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\DSA-studies\SeleçãoAtividadesComPeso\obj\Debug\net9.0\ref\SeleçãoAtividadesComPeso.dll

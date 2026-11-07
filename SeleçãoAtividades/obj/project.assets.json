@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Pedro\\Desktop\\DsaStudies\\DSA-studies\\SeleçãoAtividades\\SeleçãoAtividades.csproj",
+      "projectUniqueName": "C:\\Users\\Pedro\\Desktop\\DSA-studies\\SeleçãoAtividades\\SeleçãoAtividades.csproj",
       "projectName": "SeleçãoAtividades",
-      "projectPath": "c:\\Users\\Pedro\\Desktop\\DsaStudies\\DSA-studies\\SeleçãoAtividades\\SeleçãoAtividades.csproj",
+      "projectPath": "C:\\Users\\Pedro\\Desktop\\DSA-studies\\SeleçãoAtividades\\SeleçãoAtividades.csproj",
       "packagesPath": "C:\\Users\\Pedro\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Pedro\\Desktop\\DsaStudies\\DSA-studies\\SeleçãoAtividades\\obj\\",
+      "outputPath": "C:\\Users\\Pedro\\Desktop\\DSA-studies\\SeleçãoAtividades\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Pedro\\AppData\\Roaming\\NuGet\\NuGet.Config"
