@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SeleçãoAtividadesComPeso")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a3a7b7c550056da12c5db355904b0c6e86f6e95")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a84e7735cf3992c0ec94084fb3fe1fc5a0a2f869")]
 [assembly: System.Reflection.AssemblyProductAttribute("SeleçãoAtividadesComPeso")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SeleçãoAtividadesComPeso")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

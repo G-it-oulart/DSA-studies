@@ -11,7 +11,7 @@ public class Solution
 
         for (int i = activityList.Count() - 1; i > 0; i--)
         {
-            activityList[i].lastCompatibleIndex = searchingMethods.BinarySearch(activityList, i, 0, i - 1, -1);
+            activityList[i].lastCompatibleIndex = searchingMethods.BinarySearch(activityList, i, 0, activityList.Count() - 1, -1);
         }
 
         activityList[0].bestYetSolution = activityList[0].weight;
@@ -23,14 +23,14 @@ public class Solution
 
             activityList[i].bestYetSolution = Math.Max(activityList[i].weight + lcs, bys);
 
-            if (activityList[i].bestYetSolution != activityList[i - 1].bestYetSolution)
+            /*if (activityList[i].bestYetSolution != activityList[i - 1].bestYetSolution)
             {
                 Console.WriteLine($"Novo melhor resultado:{activityList[i].bestYetSolution}");
             }
             else
             {
                 Console.WriteLine($"Resultado anterior mantido:{activityList[i - 1].bestYetSolution}");
-            }
+            }*/
         }
 
         return activityList[activityList.Count() - 1].bestYetSolution;
@@ -62,7 +62,7 @@ public class Solution
             new() { startTime = 24, finishTime = 29, weight = 16, bestYetSolution = 0, lastCompatibleIndex = -1 },
             new() { startTime = 16, finishTime = 21, weight = 12, bestYetSolution = 0, lastCompatibleIndex = -1 },
             new() { startTime = 26, finishTime = 31, weight = 24, bestYetSolution = 0, lastCompatibleIndex = -1 },
-            new() { startTime = 30, finishTime = 35, weight = 35, bestYetSolution = 0, lastCompatibleIndex = -1 }
+            new() { startTime = 30, finishTime = 35, weight = 35, bestYetSolution = 0, lastCompatibleIndex = -1 },
         };
 
         List<ScheduledInterval> activityList50 = new List<ScheduledInterval>
@@ -117,7 +117,6 @@ public class Solution
             new() { startTime = 55, finishTime = 62, weight = 39, bestYetSolution = 0, lastCompatibleIndex = -1 },
             new() { startTime = 49, finishTime = 56, weight = 20, bestYetSolution = 0, lastCompatibleIndex = -1 },
             new() { startTime = 58, finishTime = 65, weight = 48, bestYetSolution = 0, lastCompatibleIndex = -1 },
-            new() { startTime = 54, finishTime = 61, weight = 35, bestYetSolution = 0, lastCompatibleIndex = -1 }
         };
 
         Random rand = new Random();
@@ -140,8 +139,8 @@ public class Solution
         }
 
         stopwatch.Start();
-        Console.WriteLine(solution.WeightedIntervalScheduling(activityList20));
+        Console.WriteLine($"Peso máximo encontrado: {solution.WeightedIntervalScheduling(activityList50)}");
         stopwatch.Stop();
-        Console.WriteLine(stopwatch.Elapsed.TotalMilliseconds);
+        Console.WriteLine($"Tempo decorrido: {stopwatch.Elapsed.TotalMilliseconds}");
     }
 }

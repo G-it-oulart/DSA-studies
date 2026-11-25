@@ -1,0 +1,15 @@
+c:\Users\Pedro\Desktop\DSA-studies\SeleçãoAtividadesDivideAndConquer\obj\Debug\net9.0\SeleçãoAtividadesDivideAndConquer.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Pedro\Desktop\DSA-studies\SeleçãoAtividadesDivideAndConquer\obj\Debug\net9.0\SeleçãoAtividadesDivideAndConquer.AssemblyInfoInputs.cache
+c:\Users\Pedro\Desktop\DSA-studies\SeleçãoAtividadesDivideAndConquer\obj\Debug\net9.0\SeleçãoAtividadesDivideAndConquer.AssemblyInfo.cs
+c:\Users\Pedro\Desktop\DSA-studies\SeleçãoAtividadesDivideAndConquer\obj\Debug\net9.0\SeleçãoAtividadesDivideAndConquer.csproj.CoreCompileInputs.cache
+c:\Users\Pedro\Desktop\DSA-studies\SeleçãoAtividadesDivideAndConquer\obj\Debug\net9.0\SeleçãoAtividadesDivideAndConquer.sourcelink.json
+C:\Users\Pedro\Desktop\DSA-studies\SeleçãoAtividadesDivideAndConquer\bin\Debug\net9.0\SeleçãoAtividadesDivideAndConquer.exe
+C:\Users\Pedro\Desktop\DSA-studies\SeleçãoAtividadesDivideAndConquer\bin\Debug\net9.0\SeleçãoAtividadesDivideAndConquer.deps.json
+C:\Users\Pedro\Desktop\DSA-studies\SeleçãoAtividadesDivideAndConquer\bin\Debug\net9.0\SeleçãoAtividadesDivideAndConquer.runtimeconfig.json
+C:\Users\Pedro\Desktop\DSA-studies\SeleçãoAtividadesDivideAndConquer\bin\Debug\net9.0\SeleçãoAtividadesDivideAndConquer.dll
+C:\Users\Pedro\Desktop\DSA-studies\SeleçãoAtividadesDivideAndConquer\bin\Debug\net9.0\SeleçãoAtividadesDivideAndConquer.pdb
+C:\Users\Pedro\Desktop\DSA-studies\SeleçãoAtividadesDivideAndConquer\obj\Debug\net9.0\SeleçãoAtividadesDivideAndConquer.dll
+C:\Users\Pedro\Desktop\DSA-studies\SeleçãoAtividadesDivideAndConquer\obj\Debug\net9.0\refint\SeleçãoAtividadesDivideAndConquer.dll
+C:\Users\Pedro\Desktop\DSA-studies\SeleçãoAtividadesDivideAndConquer\obj\Debug\net9.0\SeleçãoAtividadesDivideAndConquer.pdb
+C:\Users\Pedro\Desktop\DSA-studies\SeleçãoAtividadesDivideAndConquer\obj\Debug\net9.0\SeleçãoAtividadesDivideAndConquer.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\DSA-studies\SeleçãoAtividadesDivideAndConquer\obj\Debug\net9.0\ref\SeleçãoAtividadesDivideAndConquer.dll
